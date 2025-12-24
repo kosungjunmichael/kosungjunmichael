@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I’m Michael 👋
 
-<!--
-**kosungjunmichael/kosungjunmichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior software developer focused on **data engineering, analytics-driven applications, and ML-adjacent systems**.
 
-Here are some ideas to get you started:
+I build practical tools such as data dashboards, automation scripts, and mobile app prototypes. I enjoy structured problem-solving and turning raw data into clear, usable outputs in fast-moving environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- **Languages:** Python, Dart, SQL  
+- **Data & Analytics:** pandas, NumPy, scikit-learn, data visualization  
+- **Backend:** REST APIs, MongoDB, SQLite  
+- **Frontend:** Flutter, matplotlib  
+- **Tools:** Git, GitHub, Linux, cloud APIs  
+
+---
+
+## Projects
+
+**Market Volatility Dashboard**  
+Python tool analyzing stock data using feature engineering, clustering, and visualization.  
+→ [PROJECT_LINK](https://github.com/kosungjunmichael/Market-Volatility-Analysis-Dashboard)
+
+**Stock Portfolio Chatbot**  
+Automated system that tracks trades and calculates performance using APIs and structured data pipelines.  
+→ [PROJECT_LINK](https://github.com/kosungjunmichael/Stock-Portfolio-Chatbot)
+
+**Banking-App-Dribble-concept**  
+Flutter app simulating core banking flows with cloud-backed data.  
+→ [PROJECT_LINK](https://github.com/kosungjunmichael/Banking-App-Dribble-concept)
+
+---
+
+## Currently
+
+- Improving data pipelines and automation reliability  
+- Refining dashboards for clarity and interpretability  
+
+---
+
+## Contact
+
+Portfolio: https://tinyurl.com/yta7fhpm
+LinkedIn: [LINKEDIN_URL  ](https://www.linkedin.com/in/sungjunmichaelko/)
+Email: mike.ko96@gmail.com

@@ -41,6 +41,6 @@ Flutter app simulating core banking flows with cloud-backed data.
 
 ## Contact
 
-Portfolio: [Here]([https://www.linkedin.com/in/sungjunmichaelko/](https://mint-plot-8ae.notion.site/Portfolio-2b975011188a800bba45e30e8fa8abe7))
+Portfolio: [Here](https://mint-plot-8ae.notion.site/Portfolio-2b975011188a800bba45e30e8fa8abe7)
 LinkedIn: [Here](https://www.linkedin.com/in/sungjunmichaelko/)
 Email: [Here](mike.ko96@gmail.com)

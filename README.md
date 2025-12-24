@@ -20,15 +20,15 @@ I build practical tools such as data dashboards, automation scripts, and mobile 
 
 **Market Volatility Dashboard**  
 Python tool analyzing stock data using feature engineering, clustering, and visualization.  
-→ [PROJECT_LINK](https://github.com/kosungjunmichael/Market-Volatility-Analysis-Dashboard)
+→ [Here](https://github.com/kosungjunmichael/Market-Volatility-Analysis-Dashboard)
 
 **Stock Portfolio Chatbot**  
 Automated system that tracks trades and calculates performance using APIs and structured data pipelines.  
-→ [PROJECT_LINK](https://github.com/kosungjunmichael/Stock-Portfolio-Chatbot)
+→ [Here](https://github.com/kosungjunmichael/Stock-Portfolio-Chatbot)
 
 **Banking-App-Dribble-concept**  
 Flutter app simulating core banking flows with cloud-backed data.  
-→ [PROJECT_LINK](https://github.com/kosungjunmichael/Banking-App-Dribble-concept)
+→ [Here](https://github.com/kosungjunmichael/Banking-App-Dribble-concept)
 
 ---
 
@@ -41,6 +41,6 @@ Flutter app simulating core banking flows with cloud-backed data.
 
 ## Contact
 
-Portfolio: https://tinyurl.com/yta7fhpm
-LinkedIn: [LINKEDIN_URL  ](https://www.linkedin.com/in/sungjunmichaelko/)
-Email: mike.ko96@gmail.com
+Portfolio: [Here]([https://www.linkedin.com/in/sungjunmichaelko/](https://mint-plot-8ae.notion.site/Portfolio-2b975011188a800bba45e30e8fa8abe7))
+LinkedIn: [Here](https://www.linkedin.com/in/sungjunmichaelko/)
+Email: [Here](mike.ko96@gmail.com)
